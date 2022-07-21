@@ -62,7 +62,7 @@ export default {
       font-weight: 600;
       font-size: 18px;
       text-transform: uppercase;
-      color: #c92502;
+      color: #d33d3d;
       margin-bottom: 8px;
       @media (min-width: 750px) {
         font-size: 22px;
@@ -81,7 +81,7 @@ export default {
         font-weight: 500;
       }
     }
-    
+
     .button {
       font-size: 20px;
       align-self: flex-start;
