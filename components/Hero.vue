@@ -1,6 +1,6 @@
 <template>
   <div class="hero">
-   <img src="../assets/imgs/popcorn-cola-film.jpg" alt="popcorn background">
+   <img src="../assets/imgs/bg.jpg" alt="popcorn background">
    <div class="text-container">
       <div class="text">
          <span class="mini-heading">Now Streaming</span>
